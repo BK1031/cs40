@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1649555583 "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.tex" "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.pdf" "HW1-Collab" 1649555587
+["pdflatex"] 1649556025 "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.tex" "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.pdf" "HW1-Collab" 1649556072
   "../CS40packages.tex" 1633589229 1822 91e522398b6121330f7c7c963dab094c ""
-  "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.aux" 1649555584 781 0503abced549b0b44d1988b337645e2f ""
-  "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.tex" 1649555587 9823 86291cd74b6a9e1dda8acf7568ce8428 ""
+  "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.aux" 1649556026 781 0503abced549b0b44d1988b337645e2f ""
+  "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.tex" 1649556072 9867 a26ead6049b181a833f88a41c98694d0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -129,13 +129,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636459387 2724738 020563dea0138c28263bdf1bf2b59933 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "HW1-Collab.aux" 1649555584 781 0503abced549b0b44d1988b337645e2f "pdflatex"
-  "HW1-Collab.out" 1649555584 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "HW1-Collab.tex" 1649555587 9823 86291cd74b6a9e1dda8acf7568ce8428 ""
+  "HW1-Collab.aux" 1649556026 781 0503abced549b0b44d1988b337645e2f "pdflatex"
+  "HW1-Collab.out" 1649556025 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "HW1-Collab.tex" 1649556072 9867 a26ead6049b181a833f88a41c98694d0 ""
   (generated)
-  "HW1-Collab.log"
   "HW1-Collab.pdf"
-  "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.pdf"
-  "HW1-Collab.out"
+  "HW1-Collab.log"
   "HW1-Collab.aux"
+  "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.pdf"
   "/Users/bk1031/Documents/Projects/cs40/hw1-collab/HW1-Collab.log"
+  "HW1-Collab.out"

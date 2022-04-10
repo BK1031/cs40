@@ -51,7 +51,7 @@ Bharat Kathi (5938444)}
     \end{description}
     \item Whenever I have a snack at the airport, I miss my final connection.
     \begin{description}
-        \item[Answer:] $n \land \lnot m$
+        \item[Answer:] $n \rightarrow \lnot m$
     \end{description}
     \item I miss my final connection only if I have a snack in the airport, or my flight was delayed.
     \begin{description}
@@ -96,7 +96,7 @@ Write a logical expression to capture each of the following colloquialisms\footn
 
     \item It either rains or it pours. 
     \begin{description}
-        \item[Answer:] $i \lor j$
+        \item[Answer:] $(i \land \lnot j) \lor (\lnot i \land j)$
     \end{description}
     \item It is raining on our parade. 
     \begin{description}
@@ -104,7 +104,7 @@ Write a logical expression to capture each of the following colloquialisms\footn
     \end{description}
     \item We are having this parade, come rain or shine. 
     \begin{description}
-        \item[Answer:] $l \land (i \lor k)$
+        \item[Answer:] $(i \lor k) \rightarrow l$
     \end{description}
 
 
